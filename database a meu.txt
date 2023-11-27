@@ -1,0 +1,38 @@
+ALTER TABLE discounts
+ADD COLUMN discountper;
+
+INSERT INTO discounts (name,price,image) VALUES
+("Mouse Gaming LOGITECH G502 HERO",300,"discounts/product-1.jpg"),
+("Mouse Gaming RAZER Viper Mini",103,"discounts/product-2.jpg"),
+("Mouse gaming SteelSeries Rival 3, Negru",190,"discounts/product-3.jpg"),
+("Tastatura mecanica HP HyperX Alloy 65 Red, Iluminare RGB, Negru",300,"discounts/product-4.jpg"),
+("Tastatura Marvo KG962, iluminare Rainbow, USB-C, negru",190,"discounts/product-5.jpg"),
+("Tastatura Gaming Genesis Rhod 420 RGB",135,"discounts/product-6.jpg"),
+("Kit gaming Onikuma tastatura mecanica RGB G26 89 taste si mouse RGB CW905",240,"discounts/product-7.jpg"),
+("PC Gaming Pro377, Procesor Intel® Core™ I7 3,4 GHz, 16GB RAM,2TB HDD,GeForce GT710",3600,"discounts/product-8.jpg"),
+("Desktop PC Gaming Serioux cu procesor AMD Ryzen™ 9 5900X, 32GB DDR4, 1TB SSD, GeForce® RTX 3070 8GB GDDR6,",8000,"discounts/product-9.jpg")
+
+
+INSERT INTO mice (name,price,image) VALUES
+("Mouse gaming Logitech G102 Lightsync, 8000 dpi, RGB, Negru",300,"mice/product-1.jpg"),
+("Mouse Gaming RAZER Viper Mini",110,"mice/product-2.jpg"),
+("Mouse gaming SteelSeries Rival 3, Negru",190,"mice/product-3.jpg")
+
+INSERT INTO headsets (name,price,image) VALUES
+("Mouse gaming Logitech G102 Lightsync, 8000 dpi, RGB, Negru",300,"mice/product-1.jpg"),
+("Mouse Gaming RAZER Viper Mini",110,"mice/product-2.jpg"),
+("Mouse gaming SteelSeries Rival 3, Negru",190,"mice/product-3.jpg")
+
+INSERT INTO pcgaming (name,price,image) VALUES
+("Mouse gaming Logitech G102 Lightsync, 8000 dpi, RGB, Negru",300,"pcgaming/product-1.jpg"),
+("Mouse Gaming RAZER Viper Mini",110,"pcgaming/product-2.jpg"),
+("Mouse gaming SteelSeries Rival 3, Negru",190,"pcgaming/product-3.jpg")
+
+INSERT INTO keyboards (name,price,image) VALUES
+("Mouse gaming Logitech G102 Lightsync, 8000 dpi, RGB, Negru",300,"keyboards/product-1.jpg"),
+("PC Gaming Pro377, Procesor Intel® Core™ I7 3,4 GHz, 16GB RAM,2TB HDD,GeForce GT710,"keyboards/product-2.jpg"),
+("Mouse gaming SteelSeries Rival 3, Negru",190,"keyboards/product-3.jpg"
+
+
+https://www.emag.ro/search/desktop-pc/monitor+pachet+desktop/c?ref=search_category_1
+
